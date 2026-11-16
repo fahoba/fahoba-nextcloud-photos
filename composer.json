@@ -1,0 +1,21 @@
+{
+    "name": "fahoba/nextcloud-photos",
+    "description": "Photo frame source: a folder of your Nextcloud, read over WebDAV",
+    "type": "library",
+    "version": "0.1.0",
+    "license": "PolyForm-Shield-1.0.0",
+    "require": {
+        "php": "^8.5",
+        "fahoba/plugin-api": "^0.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Fahoba\\NextcloudPhotos\\": "src/"
+        }
+    },
+    "extra": {
+        "fahoba": {
+            "provider": "Fahoba\\NextcloudPhotos\\NextcloudPhotosPlugin"
+        }
+    }
+}

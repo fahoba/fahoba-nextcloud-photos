@@ -1,0 +1,16 @@
+{
+    "Shows a folder of your Nextcloud in the photo frame, subfolders included.": "Zeigt einen Ordner eurer Nextcloud im Bilderrahmen, mit Unterordnern.",
+    "Create an app password in Nextcloud under Settings → Security; your own password is not needed here.": "Legt in Nextcloud unter Einstellungen → Sicherheit ein App-Passwort an; euer eigenes Passwort braucht es hier nicht.",
+    "The server must be reachable from the internet at this address — an address only valid at home is refused.": "Der Server muss unter dieser Adresse aus dem Internet erreichbar sein – eine Adresse, die nur zu Hause gilt, wird abgelehnt.",
+    "New pictures in the folder appear within ten minutes.": "Neue Bilder im Ordner erscheinen innerhalb von zehn Minuten.",
+    "Address": "Adresse",
+    "User name": "Benutzername",
+    "App password": "App-Passwort",
+    "Folder": "Ordner",
+    "Empty: the whole Photos folder.": "Leer: der ganze Ordner „Photos“.",
+    "The address starts with https:// or http://.": "Die Adresse beginnt mit https:// oder http://.",
+    "The server cannot be reached at this address, or the address is private.": "Unter dieser Adresse ist kein Server erreichbar, oder die Adresse ist privat.",
+    "Nextcloud does not accept this user name and app password.": "Nextcloud nimmt diesen Benutzernamen und dieses App-Passwort nicht an.",
+    "This folder does not exist in this Nextcloud.": "Diesen Ordner gibt es in dieser Nextcloud nicht.",
+    "There is no Nextcloud at this address.": "Unter dieser Adresse gibt es keine Nextcloud."
+}
